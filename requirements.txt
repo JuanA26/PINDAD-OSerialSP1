@@ -1,0 +1,12 @@
+customtkinter
+pillow
+pyserial
+opencv-python
+pyclipper
+onnxruntime-gpu
+--extra-index-url https://download.pytorch.org/whl/cu129
+torch
+torchvision
+requests
+pandas
+matplotlib
